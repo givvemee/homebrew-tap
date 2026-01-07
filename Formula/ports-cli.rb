@@ -1,8 +1,8 @@
 class PortsCli < Formula
   desc "Show listening ports with process names and paths"
   homepage "https://github.com/givvemee/ports-cli"
-  url "https://github.com/givvemee/ports-cli/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "0bebac4db5dab378a554de3fd30ce5c28498ac73f96407be2d4d014b8d48447e"
+  url "https://github.com/givvemee/ports-cli/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "3fd0635de73b07fb87d6bdd533312e9b3fa2ab3ed286dacf2be58cf3c27d2e86"
   license "MIT"
 
   def install
